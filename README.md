@@ -1,6 +1,9 @@
 # CPE Feedback
 A platform for reviewing Computer Engineering (CPE) courses, professors, and labs.
 
+![Screenshot 2025-03-28 185355](https://github.com/user-attachments/assets/6c5b9d5b-bffa-4b14-8c81-650befdcb591)
+
+
 
 ## Introduction
 CPE Feedback is a web platform that allows students to Rate and review Computer Engineering (CPE) courses Provide feedback on professors and labs Share insights and experiences to guide future studentsThis project aims to create a **transparent and helpful resource** for CPE students when selecting courses and professors.
@@ -18,15 +21,15 @@ Key features include:
 Contributions are welcome!
 Follow these steps:
 
-Fork the repository
+1. Fork the repository
 
-Create a new branch (git checkout -b feature-name)
+2. Create a new branch (git checkout -b feature-name)
 
-Commit your changes (git commit -m "Added feature XYZ")
+3. Commit your changes (git commit -m "Added feature...")
 
-Push to the branch (git push origin feature-name)
+4. Push to the branch (git push origin feature-name)
 
-Create a Pull Request
+5. Create a Pull Request
 
 ## Installation
 Follow these steps to set up the project locally:
