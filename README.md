@@ -17,6 +17,11 @@ Key features include:
 - **User Authentication** – Secure login and registration. 
 
 
+## Tech Stack
+Next.js
+TypeScript
+Mysql2
+
 ## Contributing
 Contributions are welcome!
 Follow these steps:
