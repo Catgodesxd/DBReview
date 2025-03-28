@@ -6,10 +6,10 @@ CPE Feedback is a web platform that allows students to Rate and review Computer 
 
 ## Features
 Key features include:
-- ** Course Reviews ** – Rate and leave feedback on CPE courses. 
-- ** Professor Ratings ** – Share experiences with professors. 
-- ** Lab Feedback ** – Provide insights on lab sessions. 
-- ** User Authentication ** – Secure login and registration. 
+- **Course Reviews** – Rate and leave feedback on CPE courses. 
+- **Professor Ratings** – Share experiences with professors. 
+- **Lab Feedback** – Provide insights on lab sessions. 
+- **User Authentication** – Secure login and registration. 
 
 ## Installation
 Follow these steps to set up the project locally:
