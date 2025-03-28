@@ -2,7 +2,7 @@
 A platform for reviewing Computer Engineering (CPE) courses, professors, and labs.
 
 ## Introduction
-CPE Feedback is a web platform that allows students to Rate and review Computer Engineering (CPE) courses Provide feedback on professors and labs Share insights and experiences to guide future studentsThis project aims to create a ** transparent and helpful resource ** for CPE students when selecting courses and professors.
+CPE Feedback is a web platform that allows students to Rate and review Computer Engineering (CPE) courses Provide feedback on professors and labs Share insights and experiences to guide future studentsThis project aims to create a **transparent and helpful resource** for CPE students when selecting courses and professors.
 
 ## Features
 Key features include:
